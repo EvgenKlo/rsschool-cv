@@ -49,7 +49,7 @@ Completed a course on programming from RS School (JS / FRONT-END. STAGE 0)
 * [Plants RSS Stage 0](https://EvgenKlo.github.io/plants)
 * [Momentum RSS Stage 0](https://EvgenKlo.github.io/momentum/momentum)
 ## Education
-* RS School (JS / FRONT-END. STAGE 0)
+* [RS School (JS / FRONT-END. STAGE 0)](https://rs.school/)
 * Russian State Vocational Pedagogical University. Bachelor of Professional Education. Specialization - Service and operation of road transport
 * Ural College of Construction, Architecture and Entrepreneurship. Technician. Specialty - Technical operation of hoisting-and-transport, construction, road machines and equipment
 * Category C ski instructor
