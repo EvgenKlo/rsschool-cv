@@ -10,16 +10,14 @@ I am 33 years old. I worked in a car dealership for 10 years. Performed the duti
 * HTML
 * CSS/SCSS/SASS
 * JavaScript
+* TypeScript
+* React
+* Redux Toolkit
+* MUI
+* React Router
+* Vite
 * Webpack
-* Adobe Premiere Pro
-* Adobe Photoshop
-* Kompas 3D
-* MS Office
-* AudaTex
-* ETKA
-* Elsa
-* TechDoc
-* EPC
+
 ## Code Examples
 ```
 function check(str, bracketsConfig) {
@@ -43,12 +41,20 @@ function check(str, bracketsConfig) {
 };
 ```
 ## Work Experience
+Completed a course on programming from RS School (JavaScript/Front-end)
 Completed a course on programming from RS School (JS / FRONT-END. STAGE 0)
 ## Completed projects:
+* [eCommerce application PetJoy RSS Stage 2](https://petjoy-by-kdy.netlify.app/)
+* [CSS-Selectors Game RSS Stage 2](https://rolling-scopes-school.github.io/evgenklo-JSFE2023Q1/css-selectors/)
+* [Minesweeper Game RSS Stage 2](https://rolling-scopes-school.github.io/evgenklo-JSFE2023Q1/minesweeper/)
+* [Virtual-keyboard RSS Stage 2](https://evgenklo.github.io/virtual-keyboard/)
+* [Shelter RSS Stage 1](https://rolling-scopes-school.github.io/evgenklo-JSFE2023Q1/shelter/pages/main/)
+* [CSS-bayan RSS Stage 1](https://evgenklo.github.io/cssBayan/cssBayan/)
 * [This CV](https://EvgenKlo.github.io/rsschool-cv/cv)
 * [Plants RSS Stage 0](https://EvgenKlo.github.io/plants)
 * [Momentum RSS Stage 0](https://EvgenKlo.github.io/momentum/momentum)
 ## Education
+* [RS School (JavaScript/Front-end)](https://rs.school/)
 * [RS School (JS / FRONT-END. STAGE 0)](https://rs.school/)
 * Russian State Vocational Pedagogical University. Bachelor of Professional Education. Specialization - Service and operation of road transport
 * Ural College of Construction, Architecture and Entrepreneurship. Technician. Specialty - Technical operation of hoisting-and-transport, construction, road machines and equipment
